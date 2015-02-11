@@ -53,7 +53,6 @@ class CompareApps
      * Detect market source and getting apps description
      *
      * @param $link
-     * @return null|string
      */
     public function getDescription($link)
     {
@@ -75,7 +74,6 @@ class CompareApps
      * Get apps description from itunes market
      *
      * @param $link
-     * @return string
      */
     private function getItunesDescription($link)
     {
@@ -118,3 +116,4 @@ class CompareApps
         }
     }
 }
+
