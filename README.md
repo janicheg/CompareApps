@@ -1,2 +1,2 @@
 # CompareApps
-Class of apps comparing from itnues and google markets.
+Class of apps comparing from itunes and google markets.
