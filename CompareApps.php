@@ -28,7 +28,7 @@ class CompareApps
                     $clones[] = [
                         'links' => [
                             'itunes' => $this->itunes_links[$itunes_key],
-                            'google' => $this->google_links[$google_key]],
+                            'google' => $this->google_links[$google_key],
                         'percent' => $percent
                     ];
                 }
